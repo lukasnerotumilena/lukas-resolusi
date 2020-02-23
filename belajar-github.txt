@@ -3,6 +3,7 @@ RENCANA PEMBELAJARAN
 -javascript
   *ES6
   *Framework Javascript
+-Struktur Data Dasar
 -PHP frameworks
 -interview
 -vlogs
