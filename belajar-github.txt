@@ -3,7 +3,10 @@ RENCANA PEMBELAJARAN
 -javascript
   *ES6
   *Framework Javascript
+    ^ Vue
 -Struktur Data Dasar
 -PHP frameworks
+  ^ Laravel 
 -interview
 -vlogs
+-python
