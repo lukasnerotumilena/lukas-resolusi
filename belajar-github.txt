@@ -4,6 +4,7 @@ RENCANA PEMBELAJARAN
   *ES6
   *Framework Javascript
     ^ Vue
+    ^ React
 -Struktur Data Dasar
 -PHP frameworks
   ^ Laravel 
